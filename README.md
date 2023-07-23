@@ -10,7 +10,7 @@ Salut ! Bienvenue sur mon profil GitHub. Je suis ERROR, un apprenti développeur
 - Css
 - Javascript
 
-Je suis spécialisé dans la programmation en Lua, en particulier pour le framework FiveM. J'ai acquis une solide compréhension de Lua et de ses fonctionnalités en explorant et en créant des scripts personnalisés pour FiveM. Je suis constamment en train d'apprendre et de me perfectionner dans ce domaine.
+Je suis spécialisé dans la programmation en Lua, en particulier pour le framework ESX sur FiveM. J'ai acquis une solide compréhension de Lua et de ses fonctionnalités en explorant et en créant des scripts personnalisés pour FiveM. Je suis constamment en train d'apprendre et de me perfectionner dans ce domaine.
 
 ## Projets FiveM
 
