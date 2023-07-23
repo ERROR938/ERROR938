@@ -31,6 +31,6 @@ Sur ma chaîne YouTube, je partage mes créations sur FiveM (une petite partie)
 
 ## Contact
 
-Si vous souhaitez me contacter pour des collaborations ou des opportunités, vous pouvez m'envoyer un message sur GitHub. Je serai ravi d'échanger avec vous !
+Si vous souhaitez me contacter pour des collaborations ou des opportunités, vous pouvez m'envoyer un message sur Discord. Je serai ravi d'échanger avec vous !
 
 Merci d'avoir visité mon profil. J'espère que vous trouverez mes projets intéressants et utiles pour votre parcours d'apprentissage en programmation Lua pour FiveM. Je reste à votre disposition pour toute question ou discussion supplémentaire. Bonne journée !
