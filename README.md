@@ -1,36 +1,21 @@
-# Profil GitHub d'ERROR - Apprenti développeur
+<h1 align="center">Salut 👋, Moi c'est ERROR</h1>
+<h3 align="center">Passionné en réseaux informatiques.</h3>
 
-Salut ! Bienvenue sur mon profil GitHub. Je suis ERROR, un apprenti développeur passionné par la création de scripts Lua pour FiveM. Voici quelques informations sur moi et mon parcours :
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=error938&label=Profile%20views&color=0e75b6&style=flat" alt="error938" /> </p>
 
-## Compétences techniques
+- 🔭 Je travail actuellement sur [BioHazzard](https://discord.gg/biohazardfr)
 
-- Lua
-- Python
-- Html
-- Css
-- Javascript
+- 🌱 I’m currently learning **Html, Css, Javascript**
 
-Je suis spécialisé dans la programmation en Lua, en particulier pour le framework ESX sur FiveM. J'ai acquis une solide compréhension de Lua et de ses fonctionnalités en explorant et en créant des scripts personnalisés pour FiveM. Je suis constamment en train d'apprendre et de me perfectionner dans ce domaine.
+- 📫 Me contacter : **error950**
 
-## Projets FiveM
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/la taverne du pirate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="la taverne du pirate" height="30" width="40" /></a>
+<a href="https://discord.gg/error950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="error950" height="30" width="40" /></a>
+</p>
 
-En tant qu'apprenti développeur, je suis engagé dans des projets personnels sur FiveM. J'aime créer des scripts pour ajouter de nouvelles fonctionnalités, améliorer l'expérience de jeu et créer des environnements virtuels plus immersifs. Vous pouvez trouver certains de mes travaux sur mon profil GitHub.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
-## Collaboration et apprentissage
-
-Je suis ouvert à la collaboration et à l'apprentissage en équipe. Si vous avez des idées de projets, des questions ou si vous cherchez à élargir vos connaissances en programmation Lua pour FiveM, n'hésitez pas à me contacter. Je suis toujours enthousiaste à l'idée de travailler avec d'autres passionnés et d'échanger des connaissances.
-
-## Réseaux sociaux
-
-Pour rester à jour avec mes derniers projets et activités liés à FiveM, vous pouvez me suivre sur :
-
-- Discord : [https://discord.gg/hHh8DvkWNH](https://discord.gg/hHh8DvkWNH)
-- YouTube : [https://www.youtube.com/channel/UCvR_H9QJjSzzFAmejikRpnQ](https://www.youtube.com/channel/UCvR_H9QJjSzzFAmejikRpnQ)
-
-Sur ma chaîne YouTube, je partage mes créations sur FiveM (une petite partie)
-
-## Contact
-
-Si vous souhaitez me contacter pour des collaborations ou des opportunités, vous pouvez m'envoyer un message sur Discord. Je serai ravi d'échanger avec vous !
-
-Merci d'avoir visité mon profil. J'espère que vous trouverez mes projets intéressants et utiles pour votre parcours d'apprentissage en programmation Lua pour FiveM. Je reste à votre disposition pour toute question ou discussion supplémentaire. Bonne journée !
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=error938&show_icons=true&locale=en&layout=compact" alt="error938" /></p>
