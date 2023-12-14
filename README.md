@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=error938&label=Profile%20views&color=0e75b6&style=flat" alt="error938" /> </p>
 
-- 🔭 Je travail actuellement sur [BioHazzard](https://discord.gg/biohazardfr)
-
 - 🌱 I’m currently learning **Html, Css, Javascript**
 
 - 📫 Me contacter : **error950**
